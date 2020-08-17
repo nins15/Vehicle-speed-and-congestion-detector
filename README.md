@@ -22,3 +22,8 @@
 <p align="center">
   <img src="https://github.com/nins15/Vehicle-speed-and-congestion-detector/blob/master/images/fasterrcnn.png">
 </p>
+
+## Congestion detection and Speed detection:
+
+* Speed detection is done using pixel location and can be found in file [syn](https://github.com/nins15/Vehicle-speed-and-congestion-detector/blob/master/utils/syn.py)
+* Congestion detection is done by calculating the centroids of two objects and if two objects come too close to each other then "WARNING" sign is diplayed

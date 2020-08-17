@@ -2,7 +2,7 @@
 
 ---
 
-***The [TensorFlow Object Detection API]("https://github.com/tensorflow/models/tree/master/research/object_detection") is used as a base for object counting on this project, more info can be found on this [repo](https://github.com/nins15/Vehicle-speed-and-congestion-detector/tree/master/utils). Apart from that some code has also been based on this [site](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)***
+***The [TensorFlow Object Detection API]("https://github.com/tensorflow/models/tree/master/research/object_detection") is used as a base for object counting on this project, more info can be found on this [repo](https://github.com/nins15/Vehicle-speed-and-congestion-detector/tree/master/utils). Apart from that some code is also based on this [site](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)***
 
 ---
 
@@ -13,3 +13,7 @@
 
 ## Model Architecture
 
+
+<p align="center">
+  <img src="https://github.com/nins15/Vehicle-speed-and-congestion-detector/blob/master/images/Modelarchitecture.png">
+</p>

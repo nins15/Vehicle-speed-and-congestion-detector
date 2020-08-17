@@ -17,3 +17,8 @@
 <p align="center">
   <img src="https://github.com/nins15/Vehicle-speed-and-congestion-detector/blob/master/images/Modelarchitecture.png">
 </p>
+
+## Model used : FasterRCNN
+<p align="center">
+  <img src="https://github.com/nins15/Vehicle-speed-and-congestion-detector/blob/master/images/fasterrcnn.png">
+</p>

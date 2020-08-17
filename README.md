@@ -11,6 +11,14 @@
 * Speed is calculated for the last dtected object along with its directio
 * If any two objects come too close to each other then "WARNING" is displayed to mark congestion
 
+---
+
+<p align="center">
+  <img src="https://github.com/nins15/Vehicle-speed-and-congestion-detector/blob/master/images/Forgif.gif">
+</p>
+
+---
+
 ## Model Architecture
 
 

@@ -2,7 +2,7 @@
 
 ---
 
-***The [TensorFlow Object Counting API](https://github.com/ahmetozlu/tensorflow_object_counting_api) is used as a base for object counting on this project, more info can be found on this [repo](https://github.com/ahmetozlu/tensorflow_object_counting_api).***
+***The [TensorFlow Object Detection API]("https://github.com/tensorflow/models/tree/master/research/object_detection") is used as a base for object counting on this project, more info can be found on this [repo](https://github.com/nins15/Vehicle-speed-and-congestion-detector/tree/master/utils). Apart from that some code has also been based on this [site](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)***
 
 ---
 
